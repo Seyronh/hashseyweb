@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hashsey/static/css/main.492e0f54.css",
-    "main.js": "/hashsey/static/js/main.e95ca424.js",
-    "index.html": "/hashsey/index.html",
-    "main.492e0f54.css.map": "/hashsey/static/css/main.492e0f54.css.map",
-    "main.e95ca424.js.map": "/hashsey/static/js/main.e95ca424.js.map"
+    "main.css": "/hashseyweb/static/css/main.492e0f54.css",
+    "main.js": "/hashseyweb/static/js/main.e95ca424.js",
+    "index.html": "/hashseyweb/index.html",
+    "main.492e0f54.css.map": "/hashseyweb/static/css/main.492e0f54.css.map",
+    "main.e95ca424.js.map": "/hashseyweb/static/js/main.e95ca424.js.map"
   },
   "entrypoints": [
     "static/css/main.492e0f54.css",
